@@ -1,0 +1,74 @@
+html {
+  font-size: 14px;
+  background-color: antiquewhite;
+}
+
+
+body {
+  background-color: white;
+  margin: 2rem;
+  padding: 2.5rem;
+  border-style: solid;
+  border-color: blue;
+  border-width: 1rem;
+  outline: 0.8rem double brown;
+  outline-offset: 0.5rem;
+}
+
+#header {
+  text-align: center;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.header-img {
+  height: 5rem;
+  width: auto;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3{
+  font-size: 2rem;
+}
+
+
+#first-paragraph {
+  font-size: 1.5rem;
+  color: brown;
+}
+
+#first-paragraph:hover {
+  color: red;
+}
+
+#capitalize {
+  font-size: 5rem;
+}
+
+caption {
+  font-size: 1rem;
+  color: blue;
+}
+
+th {
+  background-color: antiquewhite;
+  color: brown;
+}
+
+
+h4 {
+  font-size: 2rem;
+}
+
+#Additional-Info {
+  color: brown;
+}
